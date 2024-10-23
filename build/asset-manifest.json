@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.d3ac8036.js",
-    "index.html": "/index.html",
-    "main.d3ac8036.js.map": "/static/js/main.d3ac8036.js.map"
+    "main.js": "/githubpage/static/js/main.d3ac8036.js",
+    "index.html": "/githubpage/index.html",
+    "main.d3ac8036.js.map": "/githubpage/static/js/main.d3ac8036.js.map"
   },
   "entrypoints": [
     "static/js/main.d3ac8036.js"
