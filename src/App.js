@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 // Define your components for each route
 function Home() {
@@ -16,7 +16,7 @@ function Careers() {
 
 function App() {
   return (
-    <Router basename="/githubpage">
+    <Router>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
